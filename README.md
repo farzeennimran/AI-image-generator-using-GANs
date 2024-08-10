@@ -8,6 +8,9 @@ This repository contains a comprehensive project on AI Image Generation using Ge
 
 Generative Adversarial Networks (GANs) are a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014. GANs consist of two neural networks, the Generator and the Discriminator, which are trained simultaneously through a process of adversarial competition. The Generator tries to create realistic images, while the Discriminator evaluates them against real images, learning to distinguish between the two. Over time, the Generator improves to the point where the images it creates are almost indistinguishable from real ones.
 
+## Dataset
+I have compiled and uploaded the dataset on kaggle: https://www.kaggle.com/datasets/farzeenimran/space-images
+
 ## Repository Structure
 
 - **`AI_image_generator_using_GANs.ipynb`**: This Jupyter Notebook contains the entire codebase for the project. It includes scripts for downloading images from NASA's API, preprocessing these images, building and training the GAN model, and generating new images using the trained model.
