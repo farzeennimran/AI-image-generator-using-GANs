@@ -1,1 +1,1 @@
-# AI-image-generator-using-GANs
+# AI image generator using GANs
