@@ -53,14 +53,6 @@ Before you begin, ensure you have the following installed:
 
 ### Requirements
 
-- Python 3.x
-- TensorFlow 2.8.0
-- PyTorch
-- Keras
-- NumPy
-- Matplotlib
-- Requests (for NASA API)
-
 You can install all dependencies using the following command:
 
 ```bash
